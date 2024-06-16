@@ -1,3 +1,17 @@
 :root {
     --couleur-primaire : #e4302f;
 }
+
+h1 {
+    color: #EF1926;
+    font-family: barlow condensed;
+    text-align: center;
+}
+
+a {
+    color: #EF1926;
+}
+
+img {
+    max-width: 100%;
+}
