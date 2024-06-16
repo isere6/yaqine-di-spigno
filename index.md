@@ -3,7 +3,7 @@
 </head>
 <section class="entete">
   <!-- Ci-dessous la photo de votre candidat·e -->
-  <img alt="Joëlle Richol candidate pour le Front Populaire le 30 juin" src="./images/Yaqine_Di_Spigno.jpg">
+  <img alt="Yaqine Di Spigno candidate pour le Front Populaire le 30 juin" src="./images/Yaqine_Di_Spigno.jpg">
 
 <h1>Le 30 juin, votez Yaqine DI SPIGNO pour le Nouveau Front Populaire !</h1>
 
